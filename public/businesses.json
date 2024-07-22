@@ -1,0 +1,243 @@
+[
+  {
+    "name": "Home Depot - Atlanta",
+    "address": "2455 Paces Ferry Rd SE, Atlanta, GA 30339, USA",
+    "latitude": 33.8644,
+    "longitude": -84.4642
+  },
+  {
+    "name": "Home Depot - New York",
+    "address": "40 W 23rd St, New York, NY 10010, USA",
+    "latitude": 40.7427,
+    "longitude": -73.9932
+  },
+  {
+    "name": "Home Depot - Los Angeles",
+    "address": "5600 Sunset Blvd, Los Angeles, CA 90028, USA",
+    "latitude": 34.098,
+    "longitude": -118.305
+  },
+  {
+    "name": "Home Depot - Chicago",
+    "address": "1232 W North Ave, Chicago, IL 60642, USA",
+    "latitude": 41.9105,
+    "longitude": -87.656
+  },
+  {
+    "name": "Home Depot - Houston",
+    "address": "8400 Westheimer Rd, Houston, TX 77063, USA",
+    "latitude": 29.7376,
+    "longitude": -95.5225
+  },
+  {
+    "name": "Home Depot - Phoenix",
+    "address": "4848 N 43rd Ave, Phoenix, AZ 85031, USA",
+    "latitude": 33.5076,
+    "longitude": -112.152
+  },
+  {
+    "name": "Home Depot - Philadelphia",
+    "address": "2200 Oregon Ave, Philadelphia, PA 19145, USA",
+    "latitude": 39.916,
+    "longitude": -75.1865
+  },
+  {
+    "name": "Home Depot - San Antonio",
+    "address": "435 Sunset Rd, San Antonio, TX 78209, USA",
+    "latitude": 29.497,
+    "longitude": -98.4526
+  },
+  {
+    "name": "Home Depot - San Diego",
+    "address": "355 Marketplace Ave, San Diego, CA 92113, USA",
+    "latitude": 32.7023,
+    "longitude": -117.106
+  },
+  {
+    "name": "Home Depot - Dallas",
+    "address": "2610 Fort Worth Ave, Dallas, TX 75211, USA",
+    "latitude": 32.7521,
+    "longitude": -96.8682
+  },
+  {
+    "name": "Home Depot - San Jose",
+    "address": "635 W Capitol Expy, San Jose, CA 95136, USA",
+    "latitude": 37.2785,
+    "longitude": -121.843
+  },
+  {
+    "name": "Home Depot - Austin",
+    "address": "1200 Barbara Jordan Blvd, Austin, TX 78723, USA",
+    "latitude": 30.3029,
+    "longitude": -97.714
+  },
+  {
+    "name": "Home Depot - Jacksonville",
+    "address": "9021 Southside Blvd, Jacksonville, FL 32256, USA",
+    "latitude": 30.2002,
+    "longitude": -81.557
+  },
+  {
+    "name": "Home Depot - Columbus",
+    "address": "4010 Morse Rd, Columbus, OH 43219, USA",
+    "latitude": 40.0585,
+    "longitude": -82.9151
+  },
+  {
+    "name": "Home Depot - Charlotte",
+    "address": "1220 N Wendover Rd, Charlotte, NC 28211, USA",
+    "latitude": 35.201,
+    "longitude": -80.8052
+  },
+  {
+    "name": "Home Depot - San Francisco",
+    "address": "491 Bayshore Blvd, San Francisco, CA 94124, USA",
+    "latitude": 37.7453,
+    "longitude": -122.403
+  },
+  {
+    "name": "Home Depot - Indianapolis",
+    "address": "3902 N High School Rd, Indianapolis, IN 46254, USA",
+    "latitude": 39.8289,
+    "longitude": -86.2764
+  },
+  {
+    "name": "Home Depot - Seattle",
+    "address": "2701 Utah Ave S, Seattle, WA 98134, USA",
+    "latitude": 47.5797,
+    "longitude": -122.336
+  },
+  {
+    "name": "Home Depot - Denver",
+    "address": "500 S Santa Fe Dr, Denver, CO 80223, USA",
+    "latitude": 39.7082,
+    "longitude": -104.993
+  },
+  {
+    "name": "Home Depot - Washington",
+    "address": "901 Rhode Island Ave NE, Washington, DC 20018, USA",
+    "latitude": 38.9278,
+    "longitude": -76.995
+  },
+
+  {
+    "name": "Home Depot - Las Vegas",
+    "address": "1401 S Lamb Blvd, Las Vegas, NV 89104, USA",
+    "latitude": 36.1558,
+    "longitude": -115.0803
+  },
+  {
+    "name": "Home Depot - Miami",
+    "address": "3030 SW 8th St, Miami, FL 33135, USA",
+    "latitude": 25.7649,
+    "longitude": -80.2467
+  },
+  {
+    "name": "Home Depot - Nashville",
+    "address": "2535 Powell Ave, Nashville, TN 37204, USA",
+    "latitude": 36.1111,
+    "longitude": -86.7733
+  },
+  {
+    "name": "Home Depot - Orlando",
+    "address": "13121 S Orange Blossom Trl, Orlando, FL 32837, USA",
+    "latitude": 28.3664,
+    "longitude": -81.406
+  },
+  {
+    "name": "Home Depot - Portland",
+    "address": "10120 SE Washington St, Portland, OR 97216, USA",
+    "latitude": 45.5187,
+    "longitude": -122.5561
+  },
+  {
+    "name": "Home Depot - Baltimore",
+    "address": "2300 Broadbirch Dr, Silver Spring, MD 20904, USA",
+    "latitude": 39.0591,
+    "longitude": -76.9592
+  },
+  {
+    "name": "Home Depot - Minneapolis",
+    "address": "1520 New Brighton Blvd, Minneapolis, MN 55413, USA",
+    "latitude": 45.002,
+    "longitude": -93.231
+  },
+  {
+    "name": "Home Depot - Kansas City",
+    "address": "7121 W 135th St, Overland Park, KS 66223, USA",
+    "latitude": 38.8821,
+    "longitude": -94.669
+  },
+  {
+    "name": "Home Depot - Columbus",
+    "address": "1680 Stringtown Rd, Grove City, OH 43123, USA",
+    "latitude": 39.8802,
+    "longitude": -83.066
+  },
+  {
+    "name": "Home Depot - San Francisco",
+    "address": "303 Bayshore Blvd, San Francisco, CA 94124, USA",
+    "latitude": 37.7426,
+    "longitude": -122.4066
+  },
+  {
+    "name": "Home Depot - Salt Lake City",
+    "address": "328 W 2100 S, Salt Lake City, UT 84115, USA",
+    "latitude": 40.7242,
+    "longitude": -111.904
+  },
+  {
+    "name": "Home Depot - Cincinnati",
+    "address": "3400 Highland Ave, Cincinnati, OH 45213, USA",
+    "latitude": 39.1801,
+    "longitude": -84.4338
+  },
+  {
+    "name": "Home Depot - St. Louis",
+    "address": "3202 S Kingshighway Blvd, St. Louis, MO 63139, USA",
+    "latitude": 38.6064,
+    "longitude": -90.2645
+  },
+  {
+    "name": "Home Depot - Charlotte",
+    "address": "1220 N Wendover Rd, Charlotte, NC 28211, USA",
+    "latitude": 35.201,
+    "longitude": -80.8052
+  },
+  {
+    "name": "Home Depot - Milwaukee",
+    "address": "4155 N Port Washington Rd, Milwaukee, WI 53212, USA",
+    "latitude": 43.0893,
+    "longitude": -87.9215
+  },
+  {
+    "name": "Home Depot - Oklahoma City",
+    "address": "6800 W Reno Ave, Oklahoma City, OK 73127, USA",
+    "latitude": 35.4645,
+    "longitude": -97.6267
+  },
+  {
+    "name": "Home Depot - Sacramento",
+    "address": "8000 Folsom Blvd, Sacramento, CA 95826, USA",
+    "latitude": 38.5563,
+    "longitude": -121.411
+  },
+  {
+    "name": "Home Depot - Louisville",
+    "address": "10301 Westport Rd, Louisville, KY 40241, USA",
+    "latitude": 38.2994,
+    "longitude": -85.5586
+  },
+  {
+    "name": "Home Depot - Albuquerque",
+    "address": "2820 Coors Blvd NW, Albuquerque, NM 87120, USA",
+    "latitude": 35.1276,
+    "longitude": -106.7054
+  },
+  {
+    "name": "Home Depot - Tucson",
+    "address": "10855 N Oracle Rd, Oro Valley, AZ 85737, USA",
+    "latitude": 32.4019,
+    "longitude": -110.9664
+  }
+]
