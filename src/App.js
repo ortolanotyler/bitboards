@@ -1,14 +1,13 @@
-// src/App.js
 import React from 'react';
-import Map from './Map';
+import MapComponent from './Map';
 
 const App = () => {
   return (
     <div className="App">
-      <h1>Bitcoin-Friendly Businesses</h1>
-      <Map />
+      <h1>Bitcoin Accepting Businesses</h1>
+      <MapComponent />
     </div>
   );
-}
+};
 
 export default App;
